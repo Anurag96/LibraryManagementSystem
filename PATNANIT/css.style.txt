@@ -1,0 +1,38 @@
+body{
+    background-img: url{'image.jpg'};
+    color:#000305;
+    font-size:87.5%;/*base font size is 14px*/
+	font-family:Arial;'Lucida Sans Unicode ';
+	LIne-height:1.5;
+	text-align: left;
+}
+a{
+  text-decoration:none;
+  
+
+}
+a:link, a:visited{
+
+}
+a:hover, a:active{
+
+}
+.body {
+   margin:0 auto;
+   width:70%;
+   clear: both;
+
+
+}
+.mainheader img{
+  
+  width=30%;
+  height:auto;
+  margin:2%,0;
+}
+.mainheader nav{
+    background-color:#666;
+	height:40px;
+	boder-radius:5px;
+
+}

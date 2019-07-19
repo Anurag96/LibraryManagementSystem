@@ -1,0 +1,31 @@
+
+
+<!DOCTYPE html>
+<html lang="eng">
+<head> 
+<title>NIT PATNA </title>
+<link rel="shortcut icon" href="nitplogo.gif">
+
+<meta charset="utf-8" />
+<link rel="stylesheet" href="style.css" type="text/css" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+ <body class="body">
+
+   <header class="mainHeader">
+  <img src="nitplogo.jpg">
+   
+   <span><ul>
+<li class="active"><a href="file:///C:/Users/ANURAG/Desktop/New%20folder/Home.html">Home</a></li>
+ <li><a href="file:///C:/Users/ANURAG/Desktop/New%20folder/About-Us.html">About Us</a></li>
+<li><a href="file:///C:/Users/ANURAG/Desktop/New%20folder/E-Journals.html">E-Journals</a></li>
+<li><a href="file:///C:/Users/ANURAG/Desktop/New%20folder/Our-Team.html">Our Team</a></li>
+<li><a href="file:///C:/Users/ANURAG/Desktop/New%20folder/Photo-Gall.html">Photo Gallery</a></li>
+<li><a href="file:///C:/Users/ANURAG/Desktop/New%20folder/OPAC.html">OPAC SEARCH</a></li>
+<li><a href="file:///C:/Users/ANURAG/Desktop/New%20folder/Queries.html">Quries</a></li>
+ </ul></span>
+   </header>
+ 
+</body>
+</html>

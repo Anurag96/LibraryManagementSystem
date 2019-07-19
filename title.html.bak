@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="eng">
+<head> 
+<title>NIT PATNA </title>
+<meta charset="utf-8" />
+<link rel="stylesheet" href="style.css" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+ <body class="Home">
+
+   <header class="mainheader">
+  <img src="nitplogo.jpg"
+   
+   <nav><ul>
+<li><a href="">Home</a></li>
+ <li><a href="">About Us</a></li>
+<li><a href="">E-Journals</a></li>
+<li><a href="">Our Team</a></li>
+<li><a href="">Photo Gallery</a></li>
+<li><a href="">OPAC SEARCH</a></li>
+<li><a href="">Quries</a></li>
+ </ul></nav>
+   </header>
+ <div class="main content">
+  <div class="content">
+   <article class="topcontent">
+   <header>
+     <h2><a href="" title="First Post">First Post</a></h2>
+	 </header>
+	 <footer>
+	 <p class="post-info">anurag has written</p>
+	 <content>
+	 anuraga
+	 anurag
+	 anuraga
+	 anuraga
+	 anuraga
+	 anurag
+	 anuraga
+	 anuraga
+	 </content>
+	 </footer>
+	 </aritcle>
+	</div>
+ </div>  
+   
+   <aside class="top-sidebar">
+   <article>
+   <h2>Top Sidebar</h2>
+   anuraga
+	 anurag
+	 anuraga
+	 anuraga
+	 anuraga
+	 anurag
+	 anuraga
+	 anuraga
+	 
+   </article>
+    </aside>
+<aside class="middle-sidebar">
+   <article>
+   <h2>Top Sidebar</h2>
+   anuraga
+	 anurag
+	 anuraga
+	 anuraga
+	 anuraga
+	 anurag
+	 anuraga
+	 anuraga
+	 
+   </article>
+    </aside>
+<aside class="bottom-sidebar">
+   <article>
+   <h2>Top Sidebar</h2>
+   anuraga
+	 anurag
+	 anuraga
+	 anuraga
+	 anuraga
+	 anurag
+	 anuraga
+	 anuraga
+	 
+   </article>
+    </aside>
+<footer class="mainFooter">
+<p>copyright@anuvikurahumonu </p>
+<footer>
+</body>
+</html>
